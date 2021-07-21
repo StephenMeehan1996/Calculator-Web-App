@@ -1,0 +1,69 @@
+h1{
+    text-align: center;
+    color: white;
+    margin-right: 50px;
+    height: 50px;
+    padding-top: 20px;
+    background-color: #5d708f;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.7rem;
+}
+h3{
+    font-family: 'Lora', serif;
+    color: white;
+}
+.mainContainer{
+    position: relative;
+    margin: 150px auto 0px auto;
+    width: 300px;
+    height: 480px;
+    padding: 20px 0 0 35px;
+    background-color: #1d293a;
+    border-radius: 20px;
+    
+    
+
+}
+button{
+    
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 5px;
+    background-color:#354357;
+    font-size: 1.3rem;
+    text-align: center;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.zero{
+   
+    width: 115px;
+
+}
+.equals{
+    
+    width: 115px;
+    margin-left: 23.5%;
+
+}
+.pressed{
+    background:rgba(231, 224, 224, 0.8);
+    opacity: 100%;
+    
+}
+footer{
+    position: relative;
+    width: 100%;
+    margin: 150px 0 0 0;
+    text-align: center;
+    
+}
+ p{
+    font-family: 'Encode Sans SC', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    
+}
